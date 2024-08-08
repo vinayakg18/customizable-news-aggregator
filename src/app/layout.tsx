@@ -11,10 +11,12 @@ const Layout = ({ children }: Props) => {
       <head>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Customizable News Aggregator</title>
+        <title>NewsFlex</title>
       </head>
       <body>
-        {children}
+        <div className="scalable-container">
+          {children}
+        </div>
       </body>
     </html>
   );
