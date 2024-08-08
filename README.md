@@ -12,6 +12,8 @@ NewsFlex is a powerful and customizable news aggregator application built using 
 
 https://customizable-news-aggregator.vercel.app/
 
+![image](https://github.com/user-attachments/assets/9d3dfb15-cdfa-4ed7-92fb-ba6b3335e78f)
+
 ## Getting Started
 
 ### Prerequisites
