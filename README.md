@@ -10,6 +10,8 @@ NewsFlex is a powerful and customizable news aggregator application built using 
 - **Dynamic Loading**: Load more articles dynamically with a "Load More" button.
 - **Modern UI**: A clean and modern user interface built with CSS and optimized for performance.
 
+https://customizable-news-aggregator.vercel.app/
+
 ## Getting Started
 
 ### Prerequisites
