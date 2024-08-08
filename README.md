@@ -22,7 +22,7 @@ NewsFlex is a powerful and customizable news aggregator application built using 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/newsflex.git
+    git clone https://github.com/vinayakg18/customizable-news-aggregator.git
     cd newsflex
     ```
 
@@ -88,4 +88,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Developed by [Your Name](https://github.com/yourusername).
+Developed by [Vinayakraddi Giriyammanavar](https://github.com/vinayakg18).
